@@ -4,7 +4,7 @@
 
 void showImage()
 {
-	std::string path = "Resources/test.png";
+	std::string path = "../Resources/test.png";
 	cv::Mat img = cv::imread(path);
 	cv::imshow("Image", img);
 	cv::waitKey();
@@ -12,7 +12,7 @@ void showImage()
 
 void showVideo() // Throws error at end of video file!
 {
-	std::string path = "Resources/test_video.mp4";
+	std::string path = "../Resources/test_video.mp4";
 	cv::VideoCapture capture(path);
 	cv::Mat img;
 
