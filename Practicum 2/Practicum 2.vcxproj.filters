@@ -20,12 +20,18 @@
     <ClCompile Include="Opdracht 2_4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Opdracht 2_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Opdracht 2_3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Opdracht 2_4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Opdracht 2_2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

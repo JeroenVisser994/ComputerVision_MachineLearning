@@ -142,11 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Opdracht 2_2.cpp" />
     <ClCompile Include="Opdracht 2_3.cpp" />
     <ClCompile Include="Opdracht 2_4.cpp" />
     <ClCompile Include="Practicum 2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Opdracht 2_2.h" />
     <ClInclude Include="Opdracht 2_3.h" />
     <ClInclude Include="Opdracht 2_4.h" />
   </ItemGroup>
