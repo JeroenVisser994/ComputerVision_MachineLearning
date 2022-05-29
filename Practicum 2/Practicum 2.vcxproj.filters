@@ -23,6 +23,9 @@
     <ClCompile Include="Opdracht 2_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Documentscanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Opdracht 2_3.h">
@@ -32,6 +35,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Opdracht 2_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Documentscanner.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
